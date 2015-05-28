@@ -1,0 +1,81 @@
+{
+    "appKeys": {
+        "WEATHER": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "MathewReiss",
+    "longName": "Weather Ball",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon_watchface.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/rubber9.png",
+                "name": "RUBBER_9",
+                "type": "png"
+            },
+            {
+                "file": "images/rubber8.png",
+                "name": "RUBBER_8",
+                "type": "png"
+            },
+            {
+                "file": "images/rubber7.png",
+                "name": "RUBBER_7",
+                "type": "png"
+            },
+            {
+                "file": "images/rubber6.png",
+                "name": "RUBBER_6",
+                "type": "png"
+            },
+            {
+                "file": "images/rubber5.png",
+                "name": "RUBBER_5",
+                "type": "png"
+            },
+            {
+                "file": "images/rubber4.png",
+                "name": "RUBBER_4",
+                "type": "png"
+            },
+            {
+                "file": "images/rubber3.png",
+                "name": "RUBBER_3",
+                "type": "png"
+            },
+            {
+                "file": "images/rubber2.png",
+                "name": "RUBBER_2",
+                "type": "png"
+            },
+            {
+                "file": "images/rubber1.png",
+                "name": "RUBBER_1",
+                "type": "png"
+            },
+            {
+                "file": "images/rubber0.png",
+                "name": "RUBBER_0",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Weather Ball",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "638913e7-33ae-45a1-b455-0c509baa37ec",
+    "versionLabel": "1.4",
+    "watchapp": {
+        "watchface": true
+    }
+}
